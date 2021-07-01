@@ -2,8 +2,6 @@
 
 <h4> 1. Download modules </h1>
 
-<b> Make this in terminal </b>
-
 <code> cd .\back\ </code>
 
 <code> npm i </code>
